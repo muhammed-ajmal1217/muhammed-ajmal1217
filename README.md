@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammed Ajmal
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about HTML,CSS,JavaScript,Dart,Flutter
+- 📫 How to reach me stranger99980@gmail.com
