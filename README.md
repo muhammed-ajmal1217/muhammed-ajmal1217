@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ajmal</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img src="https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/d65c380b-47b7-4f7a-bddf-1ee4c36b0575"/>
+&nbsp;
 <img align="right" alt="coding"width="400"src="https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/c3bfc710-1285-483d-8581-1412b9dda90c"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-ajmal1217&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-ajmal1217" /> </p>
 
@@ -24,6 +25,6 @@
 
 <p><img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-ajmal1217&show_icons=true&locale=en&layout=compact" alt="muhammed-ajmal1217" /></p>
 
-<p>&nbsp;<img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&locale=en" alt="muhammed-ajmal1217" /></p>
+<p><img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&locale=en" alt="muhammed-ajmal1217" /></p>
 
 <p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-ajmal1217&" alt="muhammed-ajmal1217" /></p>
