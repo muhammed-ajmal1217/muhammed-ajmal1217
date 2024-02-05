@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ajmal</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="coding"width="400"src="![image](https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/cd83c9fe-366b-4763-a201-aab7b69d87d4)"/>
+<img align="right" alt="coding"width="400"src="https://github.com/muhammed-ajmal1217/muhammedajmal1217/assets/136672051/cd83c9fe366b-4763-a201-aab7b69d87d4"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-ajmal1217&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-ajmal1217" /> </p>
 
