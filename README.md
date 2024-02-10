@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ajmal</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <img src="https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/d65c380b-47b7-4f7a-bddf-1ee4c36b0575"/>
-<img align="right" alt="coding"width="400"src="https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/94235cda-8306-418e-9554-afc9713d8ecb"/>
+<img align="right" alt="coding"width="400"src="https://github.com/muhammed-ajmal1217/muhammed-ajmal1217/assets/136672051/46c04708-95ef-4ccd-92e3-1be57ed546e3"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-ajmal1217&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-ajmal1217" /> </p>
 
 - 🔭 I’m currently working on **Chitchat, a social media communication application**
