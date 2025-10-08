@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Jeffie - an ERP application**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Advanced Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammed-ajmal1217?tab=repositories](https://github.com/muhammed-ajmal1217?tab=repositories)
 
