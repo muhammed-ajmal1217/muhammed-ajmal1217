@@ -21,11 +21,17 @@
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ajmal1217&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=muhammed-ajmal1217&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammed-ajmal1217&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ajmal1217&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 
 
 
