@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Emeron POS**
 
-- 🌱 I’m currently learning **Advanced Flutter**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammed-ajmal1217?tab=repositories](https://github.com/muhammed-ajmal1217?tab=repositories)
 
