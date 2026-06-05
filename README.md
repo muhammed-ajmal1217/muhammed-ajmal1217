@@ -21,11 +21,11 @@
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-ajmal1217&show_icons=true&locale=en&layout=compact&theme=dark" alt="muhammed-ajmal1217" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-ajmal1217&show_icons=true&locale=en&layout=compact&theme=dark" alt="muhammed-ajmal1217" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ajmal1217&layout=compact&theme=dark)
 
-<p><img align="center" width="845" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-ajmal1217&theme=dark" alt="muhammed-ajmal1217" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammed-ajmal1217&theme=dark)
 
 
 
