@@ -131,9 +131,13 @@ Flutter Developer • Mentor • Academic Advisor • Mobile App Enthusiast
 ```
 ---
 
-# 👨‍🏫 Experience
+<h1>👨‍🏫 Experience</h1>
+<div align="center">
+<table>
+<tr>
+<td valign="top">
 
-## Flutter Developer
+<h2>📱 Flutter Developer</h2>
 
 - Cross Platform App Development
 - REST API Integration
@@ -142,13 +146,24 @@ Flutter Developer • Mentor • Academic Advisor • Mobile App Enthusiast
 - Play Store Deployment
 - Performance Optimization
 
-## Flutter Mentor & Advisor
+</td>
+
+<td valign="top">
+
+<h2>🎓 Flutter Mentor & Advisor</h2>
 
 - Conduct Technical Assessments
 - Review Intern Progress
 - Guide Real World Projects
 - Sprint Planning
 - Technical Mentorship
+
+</td>
+</tr>
+</table>
+</div>
+
+
 
 ---
 
