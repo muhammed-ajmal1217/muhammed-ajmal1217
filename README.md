@@ -129,7 +129,7 @@ Flutter Developer • Mentor • Academic Advisor • Mobile App Enthusiast
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+<a href="https://www.linkedin.com/in/muhammed-ajmal">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
