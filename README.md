@@ -11,12 +11,12 @@ Flutter Developer • Mentor • Academic Advisor • Mobile App Enthusiast
 
 <h2>🚀 About Me</h2>
 
-- 🔭 Currently working on **Emeron POS**
-- 🌱 Currently learning **Go Language & Backend Development**
+- 🔭 Currently working on **KPI App Sheet**
+- 🌱 Currently learning **Node Language & Backend Development**
 - 👨‍🏫 Flutter Developer + Mentor & Academic Advisor
 - 📱 Passionate about building scalable mobile applications
 - 💬 Ask me about **Flutter, Dart, Provider, Firebase & REST APIs**
-- 🎯 Goal: Become a Full Stack Developer
+- 🎯 Goal: Become a Forward Deployed Engineer
 - 📫 Reach me at **muhammedajmal1217@gmail.com**
 
 <br>
