@@ -70,7 +70,7 @@ Flutter Developer • Mentor • Academic Advisor • Mobile App Enthusiast
 
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=dart,js,go" />
+<img src="https://skillicons.dev/icons?i=dart,js" />
 
 </td>
 
